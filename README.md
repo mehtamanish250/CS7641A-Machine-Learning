@@ -1,2 +1,2 @@
-# CS7641A-Machine-Learning
+# CS7641A
 Machine Learning Assignments
